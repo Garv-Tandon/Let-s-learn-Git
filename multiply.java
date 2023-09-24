@@ -4,6 +4,6 @@ public class multiply {
         int a=10;
         int b=5;
         int c=a*b;
-        System.out.print("Multiply is:"+c);
+        System.out.print(" The Multiply is:"+c);
     }
 }
